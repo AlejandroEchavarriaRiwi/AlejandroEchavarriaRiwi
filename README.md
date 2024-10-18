@@ -11,7 +11,7 @@
 
 
 
-[![GitHub iampawan](https://img.shields.io/github/followers/kwmejia?label=follow&style=social)](https://github.com/SebastianRobayo)
+[![GitHub iampawan](https://img.shields.io/github/followers/AlejandroEchavarriaRiwi?label=follow&style=social)](https://github.com/AlejandroEchavarriaRiwi)
 
 
 
@@ -33,12 +33,12 @@
 
 ### GitHub Stats
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=kwmejia&show_icons=true&theme=dark&line_height=25" alt="Kevin'm github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kwmejia&theme=dark" width=""> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=AlejandroEchavarriaRiwi&show_icons=true&theme=dark&line_height=25" alt="Kevin'm github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroEchavarriaRiwi&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
 
- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwmejia&langs_count=10&theme=dark&layout=compact"> |
+ | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroEchavarriaRiwi&langs_count=10&theme=dark&layout=compact"> |
  | ----------- |
 
 
